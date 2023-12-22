@@ -1,1 +1,0 @@
-python STSCL_train.py
